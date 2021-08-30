@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gabriel Guerrero (@gabe0504).
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Python, R, and, for fun, Linux.
+- 💞️ I’m looking to collaborate on nothing at the moment. I'm too green right now to offer reliable and knowledgeable collaboration, but look forward to applying my skills once I'm ready.
